@@ -1,0 +1,1 @@
+export {usePokeomonStore} from "./usePokemonState";
